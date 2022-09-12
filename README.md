@@ -1,5 +1,4 @@
-#### I am working on SOC Analyst job
-I'm Yiğit from Türkiye, and I'm working for coding and cyber security. Besides working in Python, I am currently learning Javascript.
+#### I'm Yiğit from Türkiye, and I'm working for coding and cyber security. Besides working in Python, I am currently learning Javascript.
 
 Skills: JS / REACT / PYTHON / ASP.NET / CSS / HTML
 
