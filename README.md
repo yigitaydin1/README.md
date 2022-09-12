@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **yigit.aydin.kariyer@gmail.com**
 
-- ⚡ Fun fact **I love animals**
+- ⚡ Fun fact **I love games**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
